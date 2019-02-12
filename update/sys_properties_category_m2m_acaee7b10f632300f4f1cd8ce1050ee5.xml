@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Request">6dbca3710f632300f4f1cd8ce1050e68</category>
+        <order>200</order>
+        <property display_value="x_161382_loaner_re.retrun.remindertime" name="x_161382_loaner_re.retrun.remindertime">117dab710f632300f4f1cd8ce1050ed6</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 22:07:53</sys_created_on>
+        <sys_id>acaee7b10f632300f4f1cd8ce1050ee5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_161382_loaner_re.retrun.remindertime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_161382_loaner_re">b16604fa0f132300f4f1cd8ce1050e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b16604fa0f132300f4f1cd8ce1050e87</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_acaee7b10f632300f4f1cd8ce1050ee5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 22:09:00</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

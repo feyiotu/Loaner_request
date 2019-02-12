@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Loaner Laptop">1d2bd3710f232300f4f1cd8ce1050e89</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>daa0a7790f232300f4f1cd8ce1050e7e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_161382_loaner_re">b16604fa0f132300f4f1cd8ce1050e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b16604fa0f132300f4f1cd8ce1050e87</sys_scope>
+        <sys_update_name>sys_hub_action_instance_daa0a7790f232300f4f1cd8ce1050e7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:07:29</sys_updated_on>
+        <ui_id>ce0f23ff-456d-442a-af43-6c89a2ab5820</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=daa0a7790f232300f4f1cd8ce1050e7e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>daa0a7790f232300f4f1cd8ce1050e7e</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:51</sys_created_on>
+        <sys_id>12a0a7790f232300f4f1cd8ce1050eb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:51</sys_updated_on>
+        <value>x_161382_loaner_re_loaner_request</value>
+        <variable display_value="">1ff92c160b10030085c083eb37673a81</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>daa0a7790f232300f4f1cd8ce1050e7e</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:51</sys_created_on>
+        <sys_id>5ea0a7790f232300f4f1cd8ce1050eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:51</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">5ff92c160b10030085c083eb37673ac1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>daa0a7790f232300f4f1cd8ce1050e7e</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>9aa0a7790f232300f4f1cd8ce1050e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:50</sys_updated_on>
+        <value>x_161382_loaner_re_loaner_request</value>
+        <variable display_value="">36f9a8160b10030085c083eb37673af3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>daa0a7790f232300f4f1cd8ce1050e7e</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>d6a0a7790f232300f4f1cd8ce1050e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:50</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">c7f92c160b10030085c083eb37673a49</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=daa0a7790f232300f4f1cd8ce1050e7e"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:51</sys_created_on>
+        <sys_id>56a0a7790f232300f4f1cd8ce1050eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>dea0a7790f232300f4f1cd8ce1050e80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>56a0a7790f232300f4f1cd8ce1050e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:51</sys_created_on>
+        <sys_id>daa0a7790f232300f4f1cd8ce1050eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:51</sys_created_on>
+        <sys_id>1aa0a7790f232300f4f1cd8ce1050eb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>daa0a7790f232300f4f1cd8ce1050e7e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-11 21:06:50</sys_created_on>
+        <sys_id>92a0a7790f232300f4f1cd8ce1050e81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-11 21:06:50</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
