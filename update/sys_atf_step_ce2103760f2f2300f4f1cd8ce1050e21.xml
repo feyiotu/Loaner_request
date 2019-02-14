@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Requested for = Abraham Lincoln
+and End date = 2019-02-14 16:00:00
+and Start date = 2019-02-13 16:00:00</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 21:24:28</sys_created_on>
+        <sys_id>ce2103760f2f2300f4f1cd8ce1050e21</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Loaner Request" source="x_161382_loaner_re">b16604fa0f132300f4f1cd8ce1050e87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b16604fa0f132300f4f1cd8ce1050e87</sys_scope>
+        <sys_update_name>sys_atf_step_ce2103760f2f2300f4f1cd8ce1050e21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 22:29:57</sys_updated_on>
+        <table>x_161382_loaner_re_loaner_request</table>
+        <test display_value="My first Loaner Request ATF Test">41304fb20f2f2300f4f1cd8ce1050e6f</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ce2103760f2f2300f4f1cd8ce1050e21"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ce2103760f2f2300f4f1cd8ce1050e21</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 21:24:28</sys_created_on>
+        <sys_id>8a7187720f2f2300f4f1cd8ce1050ebb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 22:29:57</sys_updated_on>
+        <value>requested_for=a8f98bb0eb32010045e1a5115206fe3a^end_date=2019-02-15 00:00:00^start_date=2019-02-14 00:00:00^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ce2103760f2f2300f4f1cd8ce1050e21</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 21:24:28</sys_created_on>
+        <sys_id>c67187720f2f2300f4f1cd8ce1050ebb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 21:24:28</sys_updated_on>
+        <value>x_161382_loaner_re_loaner_request</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>
